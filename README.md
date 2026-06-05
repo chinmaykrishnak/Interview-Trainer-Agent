@@ -181,19 +181,25 @@ This makes the platform interactive, context-aware, and goal-driven.
 
 ## IBM watsonx Orchestrate Dashboard
 
-(Add Screenshot Here)
+<img width="442" height="232" alt="image" src="https://github.com/user-attachments/assets/ca04ab32-7a25-4aa1-b6c3-e5832fdcaa6d" />
+
 
 ## Knowledge Base Upload
 
-(Add Screenshot Here)
+<img width="442" height="232" alt="image" src="https://github.com/user-attachments/assets/14b43f48-c780-4684-8274-8ee8d7f221cf" />
+
 
 ## Website Frontend
 
-(Add Screenshot Here)
+<img width="443" height="232" alt="image" src="https://github.com/user-attachments/assets/89900615-d67c-402e-a23b-82fa1452c9da" />
+
 
 ## AI Interview Response
 
-(Add Screenshot Here)
+<img width="442" height="233" alt="image" src="https://github.com/user-attachments/assets/9ad71a7b-f8aa-4054-a940-25e7567c47c8" />
+
+<img width="443" height="233" alt="image" src="https://github.com/user-attachments/assets/98abe60d-f5ef-4d4f-ae63-ac6eac4e0272" />
+
 
 ---
 
